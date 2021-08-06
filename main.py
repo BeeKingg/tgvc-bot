@@ -20,9 +20,9 @@ from os import environ
 # import logging
 from pyrogram import Client, idle
 
-API_ID = int(environ["API_ID"])
-API_HASH = environ["API_HASH"]
-SESSION_NAME = environ["SESSION_NAME"]
+API_ID = int(environ["API_ID"5658345"])
+API_HASH = environ["API_HASH"bad0d2770acaf3a673d42dbe52c4cfee"]
+SESSION_NAME = environ["SESSION_NAME"BQALQ-tVTNr74hCvsKFEFhmRwtqDRBnCcU3EAmV49EDDpbaM-N2fZTbGbcjwMWZag0jN1Hr6xnjmnQyJg61bsfDq8zs1Op-lbQPqqATlapy7L4bIIWAkpwC4lCntD8870_vERCZXph7NPonlcGv6aDMu5eiLjbazGtcp-Yo9v3iRkYzlb1A7xsgpldxvi6tM7qKkAetGCptQ8Y-4mWD0oV8T7wGTqCAAmhWJlLDSYafWrgugyM8bhf3XxdT8gWfGzf5_a03GfQypYv2cDygIJkqG88TZ2RQk0QYSFoxwoyoapYFKLTmMYGjYUHDeB28XiSblcYpm_p78jnzahmUBC42ocuUs4wA"]
 
 PLUGINS = dict(
     root="plugins",
